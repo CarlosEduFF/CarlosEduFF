@@ -18,8 +18,5 @@
 </p>
 
 
-<div>
-<a href="https://github.com/CarlosEduFF">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?carloseduff&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?carloseduff&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+![CarlosEduFF's Stats](https://github-readme-stats.vercel.app/api?username=CarlosEduFF&theme=radical&show_icons=true&hide_border=false&count_private=true)
+![CarlosEduFF's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduFF&theme=radical&show_icons=true&hide_border=false&layout=compact)
