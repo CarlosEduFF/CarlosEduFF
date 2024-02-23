@@ -1,7 +1,7 @@
 ### Hello! Welcome to my Git Hub profile. 👋
 <p> My name is <strong>Carlos Eduardo!</strong></p>
 
-<h4>I’m currently learning Developing Systems and Analitcs!</h4> 
+<h4>I’m currently cursing Analitcs and Developing Systems  !</h4> 
 
  
  <h1>My Skills</h1>
