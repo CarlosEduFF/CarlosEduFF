@@ -1,5 +1,5 @@
 ### Hello! Welcome to my Git Hub profile. 👋
-## My name is Carlos Eduardo!
+## My name is <strong>Carlos Eduardo!</strong>
 
 <h4>I’m currently learning Developing Systems and Analitcs!</h4> 
 
