@@ -2,7 +2,9 @@
 ## My name is Carlos Eduardo!
 
 <h4>I’m currently learning Developing Systems and Analitcs!</h4> 
-## My Skills
+
+ 
+ <h1>My Skills</h1>
 
 <p align="left">
   <a href="https://skillicons.dev">
