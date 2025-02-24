@@ -1,22 +1,35 @@
 ### Hello! Welcome to my Git Hub profile. 👋
-<p> My name is <strong>Carlos Eduardo!</strong></p>
+<p> Meu nome é <strong>Carlos Eduardo!</strong></p>
 
-<h4>I’m currently find to improve for be better than I am!</h4> 
+<h4>Continuamente buscando ser melhor do que sou hoje!</h4> 
 
  
- <h1>My Skills</h1>
+🔹 Apaixonado por tecnologia e desenvolvimento de software.  
+🔹 Sempre aprendendo novas linguagens e frameworks.  
+🔹 Interessado em desenvolvimento web e mobile.  
+
+---
+
+## 🚀 Minhas Habilidades  
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,cpp,java" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,kotlin,sql" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,cpp,java,php,kotlin,sql" />
   </a>
 </p>
 
+---
 
-![CarlosEduFF's Stats](https://github-readme-stats.vercel.app/api?username=CarlosEduFF&theme=radical&show_icons=true&hide_border=false&count_private=true)
-![CarlosEduFF's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduFF&theme=radical&show_icons=true&hide_border=false&<layout=compact)
+## 📊 Estatísticas do GitHub  
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosEduFF&theme=radical&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduFF&theme=radical&layout=compact&show_icons=true&hide_border=false"/>
+</div>
+
+---
+
+## 📬 Contato  
+
+📧 Email: **carloseduardoblackx@gmail.com**  
+🔗 LinkedIn: [Seu LinkedIn]([https://www.linkedin.com/in/seuperfil](https://www.linkedin.com/in/carlos-eduardo-fernandes-765bb1343/))  
