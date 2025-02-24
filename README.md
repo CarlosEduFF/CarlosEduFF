@@ -28,8 +28,3 @@
 </div>
 
 ---
-
-## 📬 Contato  
-
-📧 Email: **carloseduardoblackx@gmail.com**  
-🔗 LinkedIn: [Seu LinkedIn]([https://www.linkedin.com/in/seuperfil](https://www.linkedin.com/in/carlos-eduardo-fernandes-765bb1343/))  
