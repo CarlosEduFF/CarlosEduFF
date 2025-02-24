@@ -1,4 +1,4 @@
-### Hello! Welcome to my Git Hub profile. 👋
+### Olá! Seja bem vindo ao meu perfil do Git Hub. 👋
 <p> Meu nome é <strong>Carlos Eduardo!</strong></p>
 
 <h4>Continuamente buscando ser melhor do que sou hoje!</h4> 
@@ -14,7 +14,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,cpp,java,php,kotlin,sql" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,cpp,java,php,kotlin,sql,react" />
   </a>
 </p>
 
